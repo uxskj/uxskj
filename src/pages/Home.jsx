@@ -13,7 +13,7 @@ export default function Home(){
 
   <section id="work" className="py-32">
    <h2 className="text-4xl font-bold text-center mb-12">Selected Work</h2>
-   <Model/>
+   {/* <Model /> */}
   </section>
 
   <section className="py-32">
